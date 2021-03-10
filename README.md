@@ -1,11 +1,35 @@
 # About
 
-In order to maximize muscle gain, this Android app allow users to keep track of their food intake and calories spending.
-
--- This is an android studio project, so you may clone the repo and try it for yourself if you want.
+Multiple mini projects that uses AI. Requires pygame module to run.
 
 # Demo
 
 ### 2048
 
-![](https://github.com/william-lui/Mini-Ai/gif/2048.gif)
+![Alt Text](https://github.com/william-lui/Mini-Ai/gif/2048.gif)
+
+### A*
+
+-- Pathfinding using depth first search
+![Alt Text](https://github.com/william-lui/Mini-Ai/gif/Dfs.gif)
+
+-- Pathfinding using breath first search
+![Alt Text](https://github.com/william-lui/Mini-Ai/gif/Bfs.gif)
+
+--Pathfinding using uniform cost
+![Alt Text](https://github.com/william-lui/Mini-Ai/gif/Ucs.gif)
+
+--Pathfinding using A*
+![Alt Text](https://github.com/william-lui/Mini-Ai/gif/AStar.gif)
+
+### BlackJack
+
+![Alt Text](https://github.com/william-lui/Mini-Ai/gif/Blackjack.gif)
+
+### Gomoku
+
+![Alt Text](https://github.com/william-lui/Mini-Ai/gif/Gomoku.gif)
+
+### Sudoku
+
+![Alt Text](https://github.com/william-lui/Mini-Ai/gif/Sudoku.gif)
