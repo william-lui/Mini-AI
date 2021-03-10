@@ -41,6 +41,7 @@ EC_LABEL_POS = (350, 10)
 PADDING = 5
 MAX_CORD = 13
 
+
 class GameRunner:
     def __init__(self):
         pygame.init()
