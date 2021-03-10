@@ -11,15 +11,19 @@ Multiple mini projects that uses AI. Requires pygame module to run.
 ### A*
 
 -- Pathfinding using depth first search
+
 ![Alt Text](https://github.com/william-lui/Mini-Ai/blob/master/gif/Dfs.gif)
 
 -- Pathfinding using breath first search
+
 ![Alt Text](https://github.com/william-lui/Mini-Ai/blob/master/gif/Bfs.gif)
 
 --Pathfinding using uniform cost
+
 ![Alt Text](https://github.com/william-lui/Mini-Ai/blob/master/gif/Ucs.gif)
 
 --Pathfinding using A*
+
 ![Alt Text](https://github.com/william-lui/Mini-Ai/blob/master/gif/AStar.gif)
 
 ### BlackJack
